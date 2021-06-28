@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @anandkumar2020
-- 👀 I’m interested in Java Programming ...
-- 🌱 I’m currently learning Java and Mvc ...
-- 💞️ I’m looking to collaborate on Java Development and SDET ...
-- 📫 How to reach me ...
+# Introduction to JUnit 5 with Maven
 
-<!---
-anandkumar2020/anandkumar2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
+
+This source code repository contains JUnit 5 test examples with Maven.
+
+## Setup
+### Requirements
+* Should use Java 11 or higher. Previous versions of Java are un-tested.
+* Use Maven 3.5.2 or higher
+
+## Support
+For questions and help:
+* Please post in course
+* Or post in the Slack Community exclusive to the course.
+
+GitHub Issues will not be addressed.
